@@ -1,5 +1,6 @@
-# React + Vite + Tailwind CSS
-Learning in Progress...
+
+# Learning React + Vite + Tailwind CSS + Git
+Learning these in a single project.
 
 [HUMAN LOGS]
 Log 0: 24-10-26.
